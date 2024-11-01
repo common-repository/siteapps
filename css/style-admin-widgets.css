@@ -1,0 +1,31 @@
+.wpbtb-hide {
+  display:none;
+}
+
+.wpbtb-show {
+  display:block;
+}
+
+.siteapps-orange {
+    color: #FF592B;
+    font-weight: bold;
+}
+
+.siteapps-warning {
+    background: #DDD;
+    padding: 6px;
+}
+
+.siteapps-warning-title {
+    background: #1b607f;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 8px;
+    font-size: 10px;
+}
+
+.siteapps-footer-warning {
+    color: #888;
+}
